@@ -1,41 +1,37 @@
-# 이력서
+# Yunjeong Lee (OOJU)
 
-## 개요
+Phone: (82) 1048601352
+Email: oojuletter2021@gmail.com
 
-## 소개
+## Summary
 
-- 이름: 이윤정
-- 이메일: oojuletter@gmail.com
-- 연락처: 010-4860-1352
+Enterprising personality, Leading by example, Lovely and confident, Project manager, President of debate club
 
-## 경력
+## Education
 
-### 
-### MSC Cruises A (2020년 ~ 현재)
+- English language and literature [major], Entrepreneurship [double major], Ewha womans university
+- Bachelor of Business Administration in [The Korean Academic Credit Bank System], [02.2021]
 
-#### 프로젝트 A (2020년 ~ 2021년)
+## Work Experience
 
-- 프로젝트 내용: 웹 사이트 개발
-- 사용 기술: React, Node.js, Express.js
-- 역할: 프론트엔드 개발, API 개발, 클라우드 환경 설정
+### [Job Title], [Company Name], [Employment Dates]
 
-#### 프로젝트 B (2021년 ~ 현재)
+- Responsibility 1
+- Responsibility 2
+- Responsibility 3
 
-- 프로젝트 내용: 모바일 앱 개발
-- 사용 기술: React Native, Firebase
-- 역할: 프론트엔드 개발, 백엔드 개발, 테스트
+### [Job Title], [Company Name], [Employment Dates]
 
-### 회사 B (2018년 ~ 2020년)
+- Responsibility 1
+- Responsibility 2
+- Responsibility 3
 
-#### 프로젝트 C (2018년 ~ 2019년)
+## Skills
 
-- 프로젝트 내용: 웹 사이트 리뉴얼
-- 사용 기술: Angular, Ruby on Rails
-- 역할: 프론트엔드 개발, 백엔드 개발, 테스트
+- Skill 1
+- Skill 2
+- Skill 3
 
-#### 프로젝트 D (2019년 ~ 2020년)
+## Certifications/Licenses
 
-- 프로젝트 내용: 새로운 기능 추가
-- 사용 기술: Angular, Ruby on Rails
-
-#
+- Certification/License 1
